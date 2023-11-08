@@ -1,5 +1,14 @@
 <h1 align="center"> Hello There 👋🏽 </h1>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/kioko-eric">
+    <img align="left" alt="Eric's Linkedin" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" />
+  </a>
+</div>
+
+  
+
+  <br>
 
 * I am [Eric Kioko](https://www.linkedin.com/in/kioko-eric).  I am a self-taught Full Stack Developer passionate about Web Development and open source based in Nairobi, Kenya.
 
@@ -9,12 +18,10 @@
   
 * My hobbies are: Playing Basketball and Chess.
 
-* Connect with me on <img height=15px width=15px src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png"> : [Linkedin Profile](https://www.linkedin.com/in/kioko-eric) 
-
 <h1 align="center"> My Technical Stack :computer: </h1>
 
-<br>
-<table width="100%" >
+<br><br>
+<table align="center" >
 <tbody>
    <tr>
     <td align="center" width="30%">
@@ -94,13 +101,16 @@
 </tbody>
 </table>
 
-<br><br>
+<br>
 
-
-<a href="https://github.com/KiokoEric">
+<div align="center"  >
+  <a  href="https://github.com/KiokoEric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiokoEric&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiokoEric&theme=buefy&layout=compact" />
 </a>
+</div>
+
+
 
 
 
