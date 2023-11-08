@@ -6,11 +6,11 @@
   </a>
 </div>
 
-  
+  <br><br>
 
-  <br>
+  <img align="right" alt="GIF" border-radius=15px width=400px height=200px src="https://www.techwhoop.com/wp-content/uploads/2021/10/Flipabit-Review.jpg" />
 
-* I am [Eric Kioko](https://www.linkedin.com/in/kioko-eric).  I am a self-taught Full Stack Developer passionate about Web Development and open source based in Nairobi, Kenya.
+* I am [Eric Kioko](https://www.linkedin.com/in/kioko-eric). I am a self-taught Full Stack Developer passionate about Web Development and open source based in Nairobi, Kenya.
 
 * I'm continuously learning new languages, creating my own personal projects as well as attending tech-related events.
 
@@ -18,9 +18,12 @@
   
 * My hobbies are: Playing Basketball and Chess.
 
+  <br><br>
+
 <h1 align="center"> My Technical Stack :computer: </h1>
 
 <br><br>
+
 <table align="center" >
 <tbody>
    <tr>
