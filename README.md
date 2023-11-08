@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Hello There 👋🏽 </h1>
 
 
 * I am [Eric Kioko](https://www.linkedin.com/in/kioko-eric).  I am a self-taught Full Stack Developer passionate about Web Development and open source based in Nairobi, Kenya.
