@@ -64,13 +64,13 @@
   </tr>
 
   <td align="center" width="30%">
-    <span><b><center>Express JS</center></b></span><br><br> 
-    <img height=65px src="https://www.braintechnosys.com/wp-content/themes/braintechnosys/img/tech/express-js.png"> 
+    <span><b><center>Node JS</center></b></span><br><br> 
+    <img height=65px src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png"> 
   </td>
 
   <td align="center" width="30%">
-    <span><b><center>Node JS</center></b></span><br><br> 
-    <img height=65px src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png"> 
+    <span><b><center>Express JS</center></b></span><br><br> 
+    <img height=65px src="https://www.braintechnosys.com/wp-content/themes/braintechnosys/img/tech/express-js.png"> 
   </td>
 
   <td align="center" width="30%">
