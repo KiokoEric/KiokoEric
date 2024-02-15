@@ -39,7 +39,7 @@
   
   <td align="center" width="30%">
     <span><b><center>SASS</center></b></span><br><br>
-    <img height=65px src="https://logonoid.com/images/sass-logo.png"> 
+    <img height=65px src="https://cascade.madmimi.com/promotion_images/2335/4212/original/sass-logo-new.png?1506013546"> 
   </td>
     
   </tr>
