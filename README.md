@@ -8,7 +8,7 @@
 
   <br><br>
 
-  <img align="right" alt="GIF" border-radius=15px width=400px height=200px src="https://www.techwhoop.com/wp-content/uploads/2021/10/Flipabit-Review.jpg" />
+  <img align="right" alt="GIF" border-radius=15px width=400px height=200px src="https://i.postimg.cc/VkNy1XTr/About-Image.jpg" />
 
 * I am [Eric Kioko](https://eric-kioko.vercel.app). I am a Full Stack Developer passionate about Web Development and open source based in Nairobi, Kenya.
 
