@@ -84,7 +84,7 @@
 
   <td align="center" width="30%">
       <span><b><center>MYSQL</center></b></span><br>
-      <img height=100px src="https://www.mongodb.com/docs/bi-connector/v2.12/images/bi-connector/icons/mysql-logo.png"> 
+      <img height=100px src="https://www.webdesign.123coimbatore.com/assets/pick/what-we-teach/my-sql.jpg"> 
   </td>
 
   <td align="center" width="30%">
