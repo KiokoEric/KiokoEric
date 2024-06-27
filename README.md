@@ -84,7 +84,7 @@
 
   <td align="center" width="30%">
       <span><b><center>MYSQL</center></b></span><br>
-      <img height=100px src="https://www.webdesign.123coimbatore.com/assets/pick/what-we-teach/my-sql.jpg"> 
+      <img height=100px src="https://d24gtkl5051d2o.cloudfront.net/public/images/landing/tfc_stack_mysql.png"> 
   </td>
 
   <td align="center" width="30%">
