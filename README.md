@@ -14,7 +14,7 @@
 
 * I'm continuously learning new languages, creating my own personal projects as well as attending tech-related events.
 
-* I am currently in the process of teaching myself NEXT JS.
+* I am currently in the process of teaching myself React Native.
   
 * My hobbies are: Playing Basketball and Chess.
 
